@@ -7,3 +7,4 @@
 ### External
 
 * [Ona Help Page](http://help.ona.io)
+* [XLS Report Documentation](https://docs.google.com/document/d/11TvJH9Bk25QBJ_U1YhSMKavnwFT2_5K9CnzvhQ_uUrI/edit)
